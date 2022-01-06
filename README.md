@@ -5,7 +5,7 @@ Repo for learning how to make websites with Jekyll pages
 ### <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace" target="_blank">More details</a>
 <table>
   <tr>
-    <td>Allie Xiao</td>
+    <td>Allie Xiao      </td>
     <td><a href="https://github.com/xiaoa0" target="_blank">Profile</a></td>
     <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/xiaoa0" target="_blank">Issues</a></td>
     <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0" target="_blank">Commits</a></td>  
@@ -21,7 +21,7 @@ Repo for learning how to make websites with Jekyll pages
 </table>
 <table>
   <tr>
-    <td>Justin Lemay</td>
+    <td>Justin Lemay    </td>
     <td><a href="https://github.com/TheRadRabbidRabbit" target="_blank">Profile</a></td>
     <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/TheRadRabbidRabbit" target="_blank">Issues</a></td>
     <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=TheRadRabbidRabbit" target="_blank">Commits</a></td>  
@@ -29,7 +29,7 @@ Repo for learning how to make websites with Jekyll pages
 </table>
 <table>
   <tr>
-    <td>Rebecca Su</td>
+    <td>Rebecca Su      </td>
     <td><a href="https://github.com/Rebecca-123" target="_blank">Profile</a></td>
     <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/Rebecca-123" target="_blank">Issues</a></td>
     <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=Rebecca-123" target="_blank">Commits</a></td>  
@@ -37,7 +37,7 @@ Repo for learning how to make websites with Jekyll pages
 </table>
 <table>
   <tr>
-    <td>Tianbin Liu</td>
+    <td>Tianbin Liu     </td>
     <td><a href="https://github.com/TianbinLiu" target="_blank">Profile</a></td>
     <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/TianbinLiu" target="_blank">Issues</a></td>
     <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=TianbinLiu" target="_blank">Commits</a></td>  
