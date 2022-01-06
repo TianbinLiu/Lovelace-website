@@ -3,46 +3,13 @@ Repo for learning how to make websites with Jekyll pages
 
 ## GitHub Activity
 ### <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace" target="_blank">More details</a>
-<table>
-  <tr>
-    <td>Allie Xiao&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
-    <td><a href="https://github.com/xiaoa0" target="_blank">Profile</a></td>
-    <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/xiaoa0" target="_blank">Issues</a></td>
-    <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0" target="_blank">Commits</a></td>  
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>Gabriel Boudreau</td>
-    <td><a href="https://github.com/Gabrielboudreau" target="_blank">Profile</a></td>
-    <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/Gabrielboudreau" target="_blank">Issues</a></td>
-    <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=Gabrielboudreau" target="_blank">Commits</a></td>  
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>Justin Lemay&nbsp; &nbsp; &nbsp; &nbsp;</td>
-    <td><a href="https://github.com/TheRadRabbidRabbit" target="_blank">Profile</a></td>
-    <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/TheRadRabbidRabbit" target="_blank">Issues</a></td>
-    <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=TheRadRabbidRabbit" target="_blank">Commits</a></td>  
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>Rebecca Su&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
-    <td><a href="https://github.com/Rebecca-123" target="_blank">Profile</a></td>
-    <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/Rebecca-123" target="_blank">Issues</a></td>
-    <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=Rebecca-123" target="_blank">Commits</a></td>  
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>Tianbin Liu&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
-    <td><a href="https://github.com/TianbinLiu" target="_blank">Profile</a></td>
-    <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/TianbinLiu" target="_blank">Issues</a></td>
-    <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=TianbinLiu" target="_blank">Commits</a></td>  
-  </tr>
-</table>
+| Name        | Role       | GitHub ID and Profile                  | Tasks                                              | Scrum Board (Filtered Issues)                          | Commits |
+|:------------|:-----------|:---------------------------------------|:--------------------------------------------------:|:------------------------------------:|:-------:|
+| Allie Xiao  | Scrum Master |[@xiaoa0](https://github.com/xiaoa0)    | [Tasks](https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/xiaoa0) |[Scrum Board](https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee%3Axiaoa0)| [Commits](https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0)|
+| Gabriel Boudreau  | Deployment Manager |[@Gabrielboudreau](https://github.com/Gabrielboudreau)| [Tasks](https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/Gabrielboudreau) |[Scrum Board](https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee:Gabrielboudreau)| [Commits](https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=Gabrielboudreau)|
+| Justin Lemay  | Github Admin |[@TheRadRabbidRabbit](https://github.com/TheRadRabbidRabbit)| [Tasks](https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/TheRadRabbidRabbit) |[Scrum Board](https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee:TheRadRabbidRabbit0)| [Commits](https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=TheRadRabbidRabbit)|
+| Rebecca Su  | Technical Officer |[@Rebecca-123](https://github.com/Rebecca-123)| [Tasks](https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/Rebecca-123) |[Scrum Board](https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee:Rebecca-123)| [Commits](https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=Rebecca-123)|
+| Tianbin Liu | Primary Designer |[@TianbinLiu](https://github.com/TianbinLiu)| [Tasks](https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/TianbinLiu) |[Scrum Board](https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee:TianbinLiu)| [Commits](https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=TianbinLiu)|
 
 
 ## Journals
