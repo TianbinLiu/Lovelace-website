@@ -17,6 +17,14 @@ Repo for learning how to make websites with Jekyll pages
     <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0" target="_blank">Commits</a></td>  
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Allie Xiao</td>
+    <td><a href="https://github.com/xiaoa0" target="_blank">Profile</a></td>
+    <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/xiaoa0" target="_blank">Issues</a></td>
+    <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0" target="_blank">Commits</a></td>  
+  </tr>
+</table>
 
 ## Journals
 - [Allie](https://docs.google.com/document/d/1nq3-OJlw7ZGxw-4uEVVfOaJVHPAkBP655eeFVQC-eKY/edit?usp=sharing)
