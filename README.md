@@ -3,7 +3,7 @@ Repo for learning how to make websites with Jekyll pages
 
 ## GitHub Activity
 ### <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace" target="_blank">More details</a>
-| Name        | Role       | GitHub ID and Profile                  | Tasks                                              | Scrum Board (Filtered Issues)                          | Commits |
+|         |        |                   |                                               |                           |  |
 |:------------|:-----------|:---------------------------------------|:--------------------------------------------------:|:------------------------------------:|:-------:|
 | Allie Xiao  | Scrum Master |[@xiaoa0](https://github.com/xiaoa0)    | [Tasks](https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/xiaoa0) |[Scrum Board](https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee%3Axiaoa0)| [Commits](https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0)|
 | Gabriel Boudreau  | Deployment Manager |[@Gabrielboudreau](https://github.com/Gabrielboudreau)| [Tasks](https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/Gabrielboudreau) |[Scrum Board](https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee:Gabrielboudreau)| [Commits](https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=Gabrielboudreau)|
@@ -11,6 +11,22 @@ Repo for learning how to make websites with Jekyll pages
 | Rebecca Su  | Technical Officer |[@Rebecca-123](https://github.com/Rebecca-123)| [Tasks](https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/Rebecca-123) |[Scrum Board](https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee:Rebecca-123)| [Commits](https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=Rebecca-123)|
 | Tianbin Liu | Primary Designer |[@TianbinLiu](https://github.com/TianbinLiu)| [Tasks](https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/TianbinLiu) |[Scrum Board](https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee:TianbinLiu)| [Commits](https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=TianbinLiu)|
 
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Role</th>
+    <th>Profile</th>
+    <th>Issues</th>
+    <th>Commits</th>
+  </tr>
+  <tr>
+    <td>Allie Xiao</td>
+    <td>Scrum Master</td>
+    <td><a href="https://github.com/xiaoa0" target="_blank">Profile</a></td>
+    <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/xiaoa0" target="_blank">Issues</a></td>
+    <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0" target="_blank">Commits</a></td>
+  </tr>
+</table>
 
 ## Journals
 - [Allie](https://docs.google.com/document/d/1nq3-OJlw7ZGxw-4uEVVfOaJVHPAkBP655eeFVQC-eKY/edit?usp=sharing)
