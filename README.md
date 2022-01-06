@@ -21,7 +21,7 @@ Repo for learning how to make websites with Jekyll pages
 </table>
 <table>
   <tr>
-    <td>Justin Lemay&nbsp; &nbsp; &nbsp; &nbsp; </td>
+    <td>Justin Lemay&nbsp; &nbsp; &nbsp; &nbsp;</td>
     <td><a href="https://github.com/TheRadRabbidRabbit" target="_blank">Profile</a></td>
     <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/TheRadRabbidRabbit" target="_blank">Issues</a></td>
     <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=TheRadRabbidRabbit" target="_blank">Commits</a></td>  
@@ -29,7 +29,7 @@ Repo for learning how to make websites with Jekyll pages
 </table>
 <table>
   <tr>
-    <td>Rebecca Su&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/td>
+    <td>Rebecca Su&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
     <td><a href="https://github.com/Rebecca-123" target="_blank">Profile</a></td>
     <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/Rebecca-123" target="_blank">Issues</a></td>
     <td><a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=Rebecca-123" target="_blank">Commits</a></td>  
