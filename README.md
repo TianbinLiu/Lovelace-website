@@ -1,6 +1,3 @@
-# Lovelace-website
-Repo for learning how to make websites with Jekyll pages
-
 ## GitHub Activity
 ### <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace" target="_blank">More details</a>
 
