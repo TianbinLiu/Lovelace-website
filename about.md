@@ -1,17 +1,9 @@
 # About
 
-## Project
-This research project is all about teaching you how to create websites with GitHub pages.
+## Project Description
 
-## Funders
-We gratefully acknowledge funding from the XYZ Founding Council, under grant number 'abc'.
+An interactive website covering the 5 Big Ideas of College Board's AP Computer Science Principles.
+See the [website ideation](https://github.com/TheRadRabbidRabbit/Team-Lovelace/wiki/Website-Ideation#purpose) Wiki for more information.
 
-## Cite us
-You can cite the project as:
 
-> *The Carpentries 2019 Annual Report. Zenodo. https://doi.org/10.5281/zenodo.3840372*
 
-## Contact us
-
-- Email: [team@carpentries.org](mailto:team@carpentries.org)
-- Twitter: [@thecarpentries](https://twitter.com/thecarpentries)
