@@ -30,42 +30,42 @@ Website Home Page -- image to be added later
    <tr>
     <td> Allie Xiao  </td>
     <td> Scrum Master </td>
-    <td> [@xiaoa0](https://github.com/xiaoa0)</td>
-    <td> [Tasks](https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/xiaoa0) </td>
-    <td> [Scrum Board](https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee%3Axiaoa0)</td>
-    <td> [Commits](https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=Gabrielboudreau)</td>
+    <td> <a href="https://github.com/xiaoa0">@xiaoa0</a></td>
+    <td> <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/xiaoa0">Tasks</a></td>
+    <td> <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee%3Axiaoa0">Scrum Board</a></td>
+    <td> <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=Gabrielboudreau">@Commits</a></td>
   </tr>
    <tr>
     <td> Gabriel Boudreau  </td>
     <td> Deployment Manager </td>
-    <td> [@Gabrielboudreau](https://github.com/Gabrielboudreau) </td>
-    <td> [Tasks](https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/Gabrielboudreau) </td>
-    <td> [Scrum Board](https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee:Gabrielboudreau)</td>
-    <td> [Commits](https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=Gabrielboudreau)</td>
+    <td> <a href="https://github.com/Gabrielboudreau">@Gabrielboudreau</a></td>
+    <td> <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/Gabrielboudreau">Tasks</a></td>
+    <td> <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee:Gabrielboudreau">Scrum Board</a></td>
+    <td> <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=Gabrielboudreau">Commits</a></td>
   </tr>
   <tr>
     <td> Justin Lemay  </td>
     <td> Github Admin </td>
-    <td> [@TheRadRabbidRabbit](https://github.com/TheRadRabbidRabbit)</td>
-    <td> [Tasks](https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/TheRadRabbidRabbit) </td>
-    <td> [Scrum Board](https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee:TheRadRabbidRabbit0)</td>
-    <td> [Commits](https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=TheRadRabbidRabbit)</td>
+    <td> <a href="https://github.com/TheRadRabbidRabbit">@TheRadRabbidRabbit</a></td>
+    <td> <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/TheRadRabbidRabbit">Tasks</a></td>
+    <td> <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee:TheRadRabbidRabbit0">Scrum Board</a></td>
+    <td> <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=TheRadRabbidRabbit">Commits</a></td>
   </tr>
   <tr>
     <td> Rebecca Su  </td>
     <td> Technical Officer </td>
-    <td> [@Rebecca-123](https://github.com/Rebecca-123)</td>
-    <td> [Tasks](https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/Rebecca-123) </td>
-    <td> [Scrum Board](https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee:Rebecca-123)</td>
-    <td> [Commits](https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=Rebecca-123)</td>
+    <td> <a href="https://github.com/Rebecca-123">@Rebecca-123</a></td>
+    <td> <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/Rebecca-123">Tasks</a></td>
+    <td> <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee:Rebecca-123">Scrum Board</a></td>
+    <td> <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=Rebecca-123">Commits</a></td>
   </tr>
   <tr>
     <td> Tianbin Liu </td>
     <td> Primary Designer </td>
-    <td> [@TianbinLiu](https://github.com/TianbinLiu)</td>
-    <td> [Tasks](https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/TianbinLiu) </td>
-    <td> [Scrum Board](https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee:TianbinLiu)</td>
-    <td> [Commits](https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=TianbinLiu)</td>
+    <td> <a href="https://github.com/TianbinLiu">@TianbinLiu</a></td>
+    <td> <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/issues/assigned/TianbinLiu">Tasks</a></td>
+    <td> <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/projects/1?card_filter_query=assignee:TianbinLiu">Scrum Board</a></td>
+    <td> <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=TianbinLiu">Commits</a></td>
   </tr>
 </table>
 
