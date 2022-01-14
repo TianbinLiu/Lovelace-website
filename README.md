@@ -25,7 +25,7 @@ Website Home Page -- image to be added later
     <th> GitHub ID and Profile                  </th>
     <th> Tasks                                              </th>
     <th> Scrum Board (Filtered Issues)                          </th>
-    <th> [Commits](https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0)</th>
+    <th> <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0">Commits</a></th>
    </tr>
    <tr>
     <td> Allie Xiao  </td>
